@@ -1,15 +1,17 @@
 Hi there 👋  
 I’m Aslıhan, a third-year university student interested in software development. I’m still at the beginning of my journey, but I really enjoy learning new things and improving myself step by step. During my studies, I am learning Java and web development, and I like building small projects to practice what I learn. In the future, I aim to improve myself in different areas and explore various technologies.
 
-==========
 
 ## 🛠️ Skills & Technologies
 - ☕ Java (basic)
+- 🐍 Python
+- 🌐Web Design (basic)
 - 📖 Data Analysis (basic)
 - 🗄️ SQL, Database Design (basic)
 - 🧠 Object-Oriented Programming (OOP)
   
-===========
+  
+
 ## 🧰 Tools
 - VS Code  
 - Git  
@@ -18,7 +20,7 @@ I’m Aslıhan, a third-year university student interested in software developme
 - CodeBlocks  
 - MS SQL  
 
-===========
+
 
 - **🔭 I’m currently working on**  
   Building small web projects and improving my programming skills.
