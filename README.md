@@ -4,7 +4,7 @@ I’m Aslıhan, a third-year university student interested in software developme
 
 ## 🛠️ Skills & Technologies
 - ☕ Java (basic)
-- 🐍 Python
+- 🐍 Python (basic)
 - 🌐Web Design (basic)
 - 📖 Data Analysis (basic)
 - 🗄️ SQL, Database Design (basic)
@@ -17,10 +17,11 @@ I’m Aslıhan, a third-year university student interested in software developme
 - Git  
 - Eclipse  
 - PyCharm  
-- CodeBlocks  
+- Code::Blocks  
 - MS SQL  
 
 
+## 🚀 More About Me
 
 - **🔭 I’m currently working on**  
   Building small web projects and improving my programming skills.
