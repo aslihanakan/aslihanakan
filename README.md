@@ -10,8 +10,8 @@ I’m Aslıhan, a third-year university student interested in software developme
 - 📖 Data Analysis (basic)
 - 🗄️ SQL, Database Design (basic)
 - 🧠 Object-Oriented Programming (OOP)
-  
-  
+- 📐 UML & Diagram Design
+
 
 ## 🧰 Tools
 - VS Code  
