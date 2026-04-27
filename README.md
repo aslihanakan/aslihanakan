@@ -20,6 +20,7 @@ I’m Aslıhan, a third-year university student interested in software developme
 - PyCharm  
 - Code::Blocks  
 - MS SQL  
+- Visual Paradigm  
 
 
 ## 🚀 More About Me
