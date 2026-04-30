@@ -48,8 +48,11 @@ I’m Aslıhan, a third-year university student interested in software developme
 - **💬 Ask me about**  
   Java basics, simple web projects, and database design.
 
-- **📫 How to reach me**  
+ ## 📫 How to reach me**  
   aslihanakan2018@gmail.com
+  www.linkedin.com/in/aslihan-akan
+
+
 
 - **😄 Pronouns**  
   She/Her
