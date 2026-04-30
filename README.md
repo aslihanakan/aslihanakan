@@ -24,7 +24,10 @@ I’m Aslıhan, a third-year university student interested in software developme
 - PyCharm  
 - Code::Blocks  
 - MS SQL  
-- Visual Paradigm  
+- Visual Paradigm
+
+## 📊GitHub Stats
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslihanakan&theme=tokyonight)
 
 
 ## 🚀 More About Me
