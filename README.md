@@ -49,9 +49,9 @@ I’m Aslıhan, a third-year university student interested in software developme
   Java basics, simple web projects, and database design.
 
  ## 📫 How to reach me**  
-  📌aslihanakan2018@gmail.com
-  
-  📌https://www.linkedin.com/in/aslihan-akan/
+📌 [Mail](mailto:aslihanakan2018@gmail.com)
+
+📌 [LinkedIn](https://www.linkedin.com/in/aslihan-akan/)
 
 
 - **😄 Pronouns**  
