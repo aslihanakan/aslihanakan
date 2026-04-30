@@ -28,6 +28,9 @@ I’m Aslıhan, a third-year university student interested in software developme
 
 ## 📊GitHub Stats
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslihanakan&theme=tokyonight)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslihanakan&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslihanakan&theme=tokyonight)
 
 
 ## 🚀 More About Me
