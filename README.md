@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" width="100%" />
+</p>
+
 **Hi there 👋** 
 
 I’m Aslıhan, a third-year university student interested in software development. I’m still at the beginning of my journey, but I really enjoy learning new things and improving myself step by step. During my studies, I am learning Java and web development, and I like building small projects to practice what I learn. In the future, I aim to improve myself in different areas and explore various technologies.
