@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="me.jpeg" width="90%" />
+  <img src="me.jpeg" width="70%" />
 </p>
 
 **Hi there 👋** 
