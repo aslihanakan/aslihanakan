@@ -51,8 +51,7 @@ I’m Aslıhan, a third-year university student interested in software developme
  ## 📫 How to reach me**  
   📌aslihanakan2018@gmail.com
   
-  📌www.linkedin.com/in/aslihan-akan
-
+  📌https://www.linkedin.com/in/aslihan-akan/
 
 
 - **😄 Pronouns**  
